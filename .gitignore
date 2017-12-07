@@ -2,3 +2,13 @@
 /.build
 /Packages
 /*.xcodeproj
+.build
+build
+.vagrant
+Packages
+*.pkg
+cardStore.xcodeproj
+*.DS_Store
+.build-ubuntu
+Package.resolved
+Dependencies/
